@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week2Lab</string>
+    <string name="enter_your_name">Enter Your Name:</string>
+    <string name="submit">Submit</string>
+    <string name="default_name">default Name</string>
+    <string name="todo">TODO</string>
+</resources>
